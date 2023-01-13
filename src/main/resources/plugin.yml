@@ -1,0 +1,16 @@
+name: Minigames
+version: '${project.version}'
+main: net.warofcivilizations.minigames.Minigames
+api-version: 1.12
+authors: [ poisontrigger ]
+description: Minigames
+commands:
+  die:
+    description: dies
+    usage: /die
+  mini:
+    description: kits
+    usage: /kits
+  kits:
+    description: kits
+    usage: kits
