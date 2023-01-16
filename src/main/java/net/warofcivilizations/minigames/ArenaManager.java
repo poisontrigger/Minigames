@@ -1,6 +1,5 @@
 package net.warofcivilizations.minigames;
 
-import net.warofcivilizations.minigames.configs.ArenasConfig;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.inventory.ItemStack;
 

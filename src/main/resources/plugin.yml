@@ -1,0 +1,9 @@
+main: net.warofcivilizations.minigames.Minigames
+name: Minigames
+version: 1.0.0
+prefix: [Minigames]
+commands:
+  Mini:
+    permission: minigames.mini
+    usage: /mini
+
